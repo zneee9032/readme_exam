@@ -1,11 +1,11 @@
 ## Community project
-![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=%20community&fontColor=ffffff&fontSize=30&fontAlign=60&fontAlignY=35&desc=Project,Name🐱%20We're&ddescSize=20&descAlign=37&descAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=%20community&fontColor=ffffff&fontSize=30&fontAlign=60&fontAlignY=35&desc=Team,Name🐱%20We're&ddescSize=20&descAlign=37&descAlignY=35)
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center">Techs that We've used</p>
 
 ### 프로젝트명
-
+Market !!
 ### 프로젝트 소개
 당근 마켓 + 커뮤니티
 
@@ -24,9 +24,15 @@
 
 ### 📌프로젝트 주요 기능
 
+1) 회원
+
+2) 관리자
+
 ### 테스트
+[기능 시현 영상]
 
 ### 마무리
+
 
 ### 문서작업
 [회의록 작성](https://docs.google.com/document/d/1M0lsSTL5gBoQE6-rQvJgIuTQlO_eI9mSImxRCpzF7iU/edit)
