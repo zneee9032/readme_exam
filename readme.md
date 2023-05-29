@@ -1,24 +1,32 @@
 ## Community project
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=%20community&fontColor=ffffff&fontSize=30&fontAlign=60&fontAlignY=35&desc=Project,Name🐱%20We're&ddescSize=20&descAlign=37&descAlignY=35)
+
+<h3 align="center">🛠️ Tech Stack 🛠️</h3>
+<p align="center">Techs that We've used</p>
 
 ### 프로젝트명
 
 ### 프로젝트 소개
 당근 마켓 + 커뮤니티
 
-### 👩‍💻멤버 구
+### ⏰ 개발기간
+설계 : 2023년 5월 25일 ~
+구현 : 
 
-### ⏰ 프로젝트 설치 및 실행 방법
+### 👩‍💻멤버 구성
+- 최지욱
+- 홍다경
+- 이다빈
+- 김진희
+- 봉재현
 
-### 프로젝트 사용 방법
+### 📌 기술 사용
 
-### 팀원 및 참고 자료
-
-### 라이센스
-
-### 뱃지 (툴)
-
-### 프로젝트에 기여하는 방법
+### 📌프로젝트 주요 기능
 
 ### 테스트
 
 ### 마무리
+
+### 문서작업
+[회의록 작성](https://docs.google.com/document/d/1M0lsSTL5gBoQE6-rQvJgIuTQlO_eI9mSImxRCpzF7iU/edit)
