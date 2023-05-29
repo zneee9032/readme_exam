@@ -1,9 +1,6 @@
 ## Community project
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=%20community&fontColor=ffffff&fontSize=30&fontAlign=60&fontAlignY=35&desc=Team,Name🐱%20We're&ddescSize=20&descAlign=37&descAlignY=35)
 
-<h3 align="center">🛠️ Tech Stack 🛠️</h3>
-<p align="center">Techs that We've used</p>
-
 ### 프로젝트명
 Market !!
 ### 프로젝트 소개
@@ -20,13 +17,33 @@ Market !!
 - 김진희
 - 봉재현
 
-### 📌 기술 사용
-
 ### 📌프로젝트 주요 기능
 
-1) 회원
+1) 회원가입 / 로그인
+- (개인/관리자)
+- 마이페이지 (회원 정보수정)
+- 아이디, 비밀번호 찾기
 
-2) 관리자
+2) 동네 소모임
+
+3) 자유게시판
+
+4) 거래 게시판
+
+5) 문의 게시
+
+5) 관리자
+
+### 📌 기술 사용
+
+<h3 align="center">🛠️ Tech Stack 🛠️</h3>
+<p align="center">Techs that We've used</p>
+
+Front-End
+
+Back-End
+
+### 팀원 별 업무 
 
 ### 테스트
 [기능 시현 영상]
